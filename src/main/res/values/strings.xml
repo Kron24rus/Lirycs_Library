@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WindowChange</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="performer">performer</string>
+    <string name="genre">Genre</string>
+    <string name="song">Song</string>
+    <string name="search">Search</string>
+    <string name="searchfield">enter the search criteria</string>
+    <string name="back_button">back</string>
+    <string name="add">Add</string>
+    <string name="song_name_input">Song name:</string>
+    <string name="lyrics_enter">Lyrics:</string>
+    <string name="name">Name</string>
+    <string name="btn_add_group">Add group</string>
+    <string name="yes">yes</string>
+    <string name="input_group_name">Enter the group name</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_add_performer">Add performer</string>
+    <string name="input_performer_name">Enter performer name</string>
+    <string name="solo">Solo</string>
+    <string name="Group">group</string>
+    <string name="group">Group</string>
+    <string name="button_edit_song">Edit Song</string>
+    <string name="button_update">Update</string>
+    <string name="button_edit_lyrics">Edit Lyrics</string>
+    <string name="button_edit_add_performer">Edit/Add Performer</string>
+
+</resources>
